@@ -7,7 +7,7 @@
 - 브랜드 정보: 브랜드 카테고리, 제품별 색상 정보 <br>
 <img width="515" alt="image" src="https://github.com/oh-bom/asac-5th-amurepo/assets/108965609/266bad6d-0aa1-43cb-9074-ca9af8b10f38">
 
-전체 데이터는 다음과 같습니다
+전체 데이터는 다음과 같습니다<br>
 <img width="559" alt="image" src="https://github.com/oh-bom/asac-5th-amurepo/assets/108965609/fa3344fa-1026-4fc7-bd50-603a898c37ea">
 
 ### 전처리<br>
